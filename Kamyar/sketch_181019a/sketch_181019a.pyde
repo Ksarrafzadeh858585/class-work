@@ -38,6 +38,7 @@ def draw():
         ellipse(403, 265, 60, 60)
         ellipse(440, 265, 60, 60)
         ellipse(420, 245, 60, 60)
+        ellipse(420, 282, 60, 60)
         fill(255, 255, 0)
         ellipse(100, 50, 70, 70)
      
