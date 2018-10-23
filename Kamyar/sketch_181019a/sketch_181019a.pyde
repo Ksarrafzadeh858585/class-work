@@ -14,6 +14,7 @@ def draw():
       
       
         noStroke()
+        fill(255, 255, 255)
         ellipse(x, 125, 50, 50)
         ellipse(x+30, 125, 50, 50)
         ellipse(x+10, 110, 50, 50)
